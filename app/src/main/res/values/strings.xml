@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GPSTracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login activity strings -->
+    <string name="idtruck">ID De Camión</string>
+    <string name="password">Contraseña</string>
+    <string name="enter">Iniciar sesión</string>
+
+    <!-- GPS Tracker activity strings -->
+    <string name="start_route">Iniciar ruta</string>
+    <string name="stop_route">Finalizar ruta</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_gpstracker">GPS Tracker</string>
+</resources>
